@@ -1,3 +1,3 @@
 # sneaker_shop
 
-A new Flutter project.
+Builiding a Sneaker Shop FrontEnd App using Flutter.
